@@ -1,1 +1,1 @@
-# manual-rag-funnel
+# Chunking Strategies for Retrieval-Augmented Generation in Technical Manuals
